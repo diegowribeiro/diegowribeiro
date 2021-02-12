@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2>Hello, I am Diego W. Ribeiro :)</h2>
+<h2>Hello, I am Diego W Ribeiro :)</h2>
 
 <h3>  About Me!</h3>
 
