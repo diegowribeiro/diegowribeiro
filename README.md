@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**diegowribeiro/diegowribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h2>Hello, I am Diego W. Ribeiro :)</h2>
 
-Here are some ideas to get you started:
+<h3>  About Me!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🙋🏽‍♂️ DevOps, 🏃🏼‍♂️ runner, 👨‍👩‍👦 Family father and 🍺 beer!
+  
+  💼 Working as a DevOps Engineer
+
+<h3>⚙️ Stack</h3>
+
+  💻 Linux ● Docker ● Kubernetes ● Aws ● Terraform ● Jenkins
+  
+  ● VsCode ● Vim ● ZSH ● Python 
+
+<h3>🛠️ Projects:</h3>
+
+  🐧 Blog - [www.diegowribeiro.com.br](https://diegowribeiro.com.br)
+  📱 Instagram - [@dw.ribeiro](http://instagram.com/dw.ribeiro)
+
+
+[![Diego W Ribeiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegowribeiro&show_icons=true)](https://github.com/diegowribeiro)
+
